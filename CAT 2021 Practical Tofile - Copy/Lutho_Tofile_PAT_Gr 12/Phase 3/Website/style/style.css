@@ -1,0 +1,46 @@
+html{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("bg.jpg");
+    background-color: rgba(168, 240, 216, 0.164);
+}
+nav{
+    background-color:rgba(68, 141, 236, 0.808);
+    bottom: 20px;
+    position: relative;
+    height: 80px;
+    width: 100vw;
+    right: 20px;
+    padding: 20px;
+    box-shadow: 2px 2px grey;
+}
+li{
+    top:10px;
+    position: relative;
+    display: inline;
+    padding: 20px;
+    
+}
+li a{
+    color: rgb(225, 252, 252);
+    font-family: monospace;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.Container{
+    width: 1000px;
+    height: 400px;
+    background-color: rgba(215, 250, 239, 0.904);
+    margin: auto;
+    box-shadow: 2px 2px 2px grey;
+    border-radius: 10px;
+    border: 1px solid rgba(159, 248, 220, 0.904);
+    font-family: monospace;
+    padding: 15px ;
+}
+
+Img{
+  box-shadow: 2px 2px 2px grey;
+  border-radius: 10px;
+}
